@@ -1,6 +1,8 @@
 🍰Sweet Bakery🍰
 架空のベーカリーショップのメニュー一覧ページを作成しました。
 
+[ベーカリーショップリンクはこちら](https://i25021may.main.jp/WEBexer/Sweet%20Bakery/b.html)
+
 ## 🛠️ 使用技術
 - HTML：ページの構造を作成
 - CSS：レイアウトとデザイン
